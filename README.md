@@ -9,3 +9,9 @@ Printed summary information for the training and testing data: The name of each 
 
 # Graph It
 Explored training data by creating 2D scatter plots of pairs of features. Made sure the different class labels are represented with different colors. Found 3 pairs that seem promising for separating the classes and add code to your Python script to produce those 3 scatter plots.
+
+![alt text](https://github.com/prerakpatelca/scatter-plot/blob/master/Screen%20Shot%202020-12-28%20at%203.47.37%20PM.png)
+![alt text](https://github.com/prerakpatelca/scatter-plot/blob/master/Figure_1.png)
+![alt text](https://github.com/prerakpatelca/scatter-plot/blob/master/Figure_2.png)
+![alt text](https://github.com/prerakpatelca/scatter-plot/blob/master/Figure_3.png)
+![alt text](https://github.com/prerakpatelca/scatter-plot/blob/master/Figure_4.png)
